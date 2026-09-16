@@ -1,6 +1,6 @@
 <div align="center">
 
-# 【S-012】Starryear-Clone丨星年·克隆
+# 【S.012】Starryear-Clone丨星年·克隆
 
 **让复制失控到荒诞：原图在中间作证，上下脱离原构图，成为两种全新却同属一个世界的克隆灾变。**
 
