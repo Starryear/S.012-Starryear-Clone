@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Assemble generated top/bottom panels around an untouched source-photo crop."""
+"""Assemble generated upper/lower panels around an untouched source-photo crop."""
 
 import argparse
 from pathlib import Path
@@ -40,7 +40,7 @@ def main():
     parser.add_argument("--output", required=True)
     parser.add_argument("--width", type=int, default=1536)
     parser.add_argument("--height", type=int, default=2304)
-    parser.add_argument("--ratios", default="34,24,42")
+    parser.add_argument("--ratios", default="32,34,34")
     parser.add_argument("--crop", help="source-pixel crop: x,y,w,h")
     args = parser.parse_args()
 
